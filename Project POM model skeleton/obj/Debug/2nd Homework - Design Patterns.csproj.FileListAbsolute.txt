@@ -1,0 +1,11 @@
+C:\Users\aivanov\Documents\Programming\QA-Automation\2nd Homework - Design Patterns\2nd Homework - Design Patterns\bin\Debug\2nd Homework - Design Patterns.dll
+C:\Users\aivanov\Documents\Programming\QA-Automation\2nd Homework - Design Patterns\2nd Homework - Design Patterns\bin\Debug\2nd Homework - Design Patterns.pdb
+C:\Users\aivanov\Documents\Programming\QA-Automation\2nd Homework - Design Patterns\2nd Homework - Design Patterns\bin\Debug\nunit.framework.dll
+C:\Users\aivanov\Documents\Programming\QA-Automation\2nd Homework - Design Patterns\2nd Homework - Design Patterns\bin\Debug\WebDriver.dll
+C:\Users\aivanov\Documents\Programming\QA-Automation\2nd Homework - Design Patterns\2nd Homework - Design Patterns\bin\Debug\WebDriver.Support.dll
+C:\Users\aivanov\Documents\Programming\QA-Automation\2nd Homework - Design Patterns\2nd Homework - Design Patterns\bin\Debug\nunit.framework.xml
+C:\Users\aivanov\Documents\Programming\QA-Automation\2nd Homework - Design Patterns\2nd Homework - Design Patterns\bin\Debug\WebDriver.xml
+C:\Users\aivanov\Documents\Programming\QA-Automation\2nd Homework - Design Patterns\2nd Homework - Design Patterns\bin\Debug\WebDriver.Support.xml
+C:\Users\aivanov\Documents\Programming\QA-Automation\2nd Homework - Design Patterns\2nd Homework - Design Patterns\obj\Debug\2nd Homework - Design Patterns.csprojResolveAssemblyReference.cache
+C:\Users\aivanov\Documents\Programming\QA-Automation\2nd Homework - Design Patterns\2nd Homework - Design Patterns\obj\Debug\2nd Homework - Design Patterns.dll
+C:\Users\aivanov\Documents\Programming\QA-Automation\2nd Homework - Design Patterns\2nd Homework - Design Patterns\obj\Debug\2nd Homework - Design Patterns.pdb

@@ -1,0 +1,11 @@
+C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\2nd Homework - Design Patterns.dll
+C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\2nd Homework - Design Patterns.pdb
+C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\nunit.framework.dll
+C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\WebDriver.dll
+C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\WebDriver.Support.dll
+C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\nunit.framework.xml
+C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\WebDriver.xml
+C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\WebDriver.Support.xml
+C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\obj\Debug\Project POM model skeleton.csprojResolveAssemblyReference.cache
+C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\obj\Debug\2nd Homework - Design Patterns.dll
+C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\obj\Debug\2nd Homework - Design Patterns.pdb
