@@ -9,3 +9,14 @@ C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model s
 C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\obj\Debug\Project POM model skeleton.csprojResolveAssemblyReference.cache
 C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\obj\Debug\2nd Homework - Design Patterns.dll
 C:\Users\aivanov\Documents\Programming\QA-Bartlett-Pear-team\Project POM model skeleton\obj\Debug\2nd Homework - Design Patterns.pdb
+D:\QA-Bartlett-Pear-team\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\2nd Homework - Design Patterns.dll
+D:\QA-Bartlett-Pear-team\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\2nd Homework - Design Patterns.pdb
+D:\QA-Bartlett-Pear-team\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\nunit.framework.dll
+D:\QA-Bartlett-Pear-team\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\WebDriver.dll
+D:\QA-Bartlett-Pear-team\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\WebDriver.Support.dll
+D:\QA-Bartlett-Pear-team\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\nunit.framework.xml
+D:\QA-Bartlett-Pear-team\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\WebDriver.xml
+D:\QA-Bartlett-Pear-team\QA-Bartlett-Pear-team\Project POM model skeleton\bin\Debug\WebDriver.Support.xml
+D:\QA-Bartlett-Pear-team\QA-Bartlett-Pear-team\Project POM model skeleton\obj\Debug\Project POM model skeleton.csprojResolveAssemblyReference.cache
+D:\QA-Bartlett-Pear-team\QA-Bartlett-Pear-team\Project POM model skeleton\obj\Debug\2nd Homework - Design Patterns.dll
+D:\QA-Bartlett-Pear-team\QA-Bartlett-Pear-team\Project POM model skeleton\obj\Debug\2nd Homework - Design Patterns.pdb
